@@ -1,2 +1,16 @@
-Last Day of the Current month: 
-Last Day of Prior Month: 
+Quarter
+Last day of Prior Quarter:- DATE(DATEADD('day',-1,DATETRUNC('quarter',TODAY()))))
+Last day of Prior Quarter (Prior Year):-DATE(DATEADD('day',-1,DATETRUNC('quarter',TODAY())))
+Last day of 2 Quarter back: DATE(DATEADD('day',-1,DATEADD('quarter',-1,DATETRUNC('quarter',TODAY()))))
+Last day of 2 Quarter back (Prior Year) :DATE(DATEADD('day',-1,DATEADD('year',-1,DATEADD('quarter',-1,DATETRUNC('quarter',TODAY())))))
+
+
+
+Month
+Last Day of Current Month: DATETRUNC('month',DATEADD('month',1,TODAY()))-1
+                            DATEADD('day',-1,(DATEADD('month',1,DATETRUNC('month',today()))))
+Last Day of Current Month(Prior year): DATE(DATEADD('day',-1,DATEADD('month',1,DATEADD('year',-1,DATETRUNC('month',TODAY())))))
+Last Day of the Prior Month: DATE(DATEADD('day',-1,DATETRUNC('month',TODAY())))
+Last Day of the Prior Month(1 year back):DATE(DATEADD('day',-1,DATEADD('year',-1,DATETRUNC('month',TODAY()))))
+Last Day of 2 months Prior Period: DATE(DATEADD('day',-1,DATEADD('month',-1,DATETRUNC('month',TODAY())))
+Last Day of 2 months Prior Period(Prior Year): DATE(DATEADD('day',-1, DATEADD('year',-1,DATEADD('month',-1,DATETRUNC('month',TODAY())))))
