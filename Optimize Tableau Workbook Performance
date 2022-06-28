@@ -1,0 +1,3 @@
+How to speed up Tableau workbooks?
+Don't work with data you don't need—both in terms of the fields you reference as well as the granularity of the records you return. Use filters, hide unused fields and aggregate. While reducing the data, make sure you use filters efficiently. Strings and dates are slow, numbers and Booleans are fast.
+Optimize Workbook Performance: https://help.tableau.com/current/pro/desktop/en-us/performance_tips.htm#:~:text=Don%27t%20work%20with%20data,numbers%20and%20Booleans%20are%20fast
