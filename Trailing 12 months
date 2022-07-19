@@ -1,0 +1,7 @@
+2 Ways to create trailing 12 months visualization:
+1) Quick Table Calculation > Moving Average then editing the Table Calculation by going "Edit Table Calculation" and changing the "Summarize values using" to "SUM" and adjusting the Previous Values number to 11, and keeping the "Include current value" checked. 
+2) Using WINDOW_SUM function: WINDOW_SUM(SUM([field]),-11,0)
+
+
+Trailing 12 months data for Prior year: WINDOW_SUM(SUM([field]),-23,-12)
+
