@@ -1,0 +1,5 @@
+Index as a filter for showing only 12 months data:
+
+Each row has an index value. One of my workbook use 3 years data for visualization but displays only the last one year data. The chart is monthly basis so there are 36 rows but want to display only from Jun-21 to Jun-22.(i.e., index 24 to 36)
+
+Index Filter: INDEX()>=24
