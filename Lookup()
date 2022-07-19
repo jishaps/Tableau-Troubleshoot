@@ -1,0 +1,7 @@
+Calculation is done based on the values in the table not looking at the data source.
+
+sum([Field-1])-LOOKUP(sum([Field-2]),0)
+
+Here Field-2 value in the table is subtracted from Field-1. 
+LOOKUP(sum([Field-2]),0) means same row as that of the Field-1
+LOOKUP(sum([Field-2]),-1) means one row prior
