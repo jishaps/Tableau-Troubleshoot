@@ -3,3 +3,14 @@ Don't work with data you don't need—both in terms of the fields you reference 
 Optimize Workbook Performance: https://help.tableau.com/current/pro/desktop/en-us/performance_tips.htm#:~:text=Don%27t%20work%20with%20data,numbers%20and%20Booleans%20are%20fast
 speed-up-your-tableau-dashboard: https://www.lynchpin.com/blog/speed-up-your-tableau-dashboard/
 6 tips to make your dashboards more performant: https://www.tableau.com/about/blog/2016/1/5-tips-make-your-dashboards-more-performant-48574
+
+I tried:
+*remove unnecessary filters
+*use DATE function
+Hide Unused fields
+Faster: Boolean > Int > Float > String > Date > Datetime
+Show Apply Button in filter
+Include Values in Filter drop down
+Multiple Values (custom list) and Wildcard in filter gives better performance
+Continuous date filter is better than Discrete Date
+Use chart as a filter (action filter) instead of quick filter
