@@ -14,3 +14,6 @@ Include Values in Filter drop down
 Multiple Values (custom list) and Wildcard in filter gives better performance
 Continuous date filter is better than Discrete Date
 Use chart as a filter (action filter) instead of quick filter
+Fast Calc: Min, Max
+Slow Calc: Avg,Attr,Countd
+Dynamic Calculations are slow. Avoid parameters,NOW() in calculation
