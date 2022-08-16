@@ -1,0 +1,13 @@
+Old Way to Color Things:
+IF SUM([Sales]) - LOOKUP(SUM([Sales]),-1) > 0 THEN "Increase"
+ELSEIF SUM([Sales]) - LOOKUP(SUM([Sales]),-1) < 0 THEN "Decrease"
+ELSE "Neutral"
+END
+or
+IF SUM([Sales]) - LOOKUP(SUM([Sales]),-1) > 0 THEN TRUE
+ELSEIF SUM([Sales]) - LOOKUP(SUM([Sales]),-1) < 0 THEN FALSE
+ELSE NULL
+END
+
+New Way to Color Things:
+IF ZN(SIGN(SUM([Sales]) - LOOKUP(SUM([Sales]),-1)))
