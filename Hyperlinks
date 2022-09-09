@@ -1,0 +1,15 @@
+Option 1 (Tried):
+  Drag an image
+  Choose a transparent shape
+  Insert the URL to 'URL Opened When Image Is Clicked'
+  Make it 'Floating'
+  Cover the text with the image
+  Edit the text to look like hyperlink
+  
+  Option 2 (Web Edit): 
+    Select the text
+    Press CTRL+V
+    Text turns to a hyperlink
+    Edit the URL by selecting the text
+    
+   5 Things You Can Do in Web Edit, But NOT Tableau Desktop: https://www.youtube.com/watch?v=dU4y_HILCtE
