@@ -1,1 +1,6 @@
 Click on extract from Data Source
+Data>Data Source Name>Create Local Copy...>Save
+Replace the Data Source with the local copy and close the unwanted data source (similar to copy and paste from other workbooks)
+Server>Publish Workbook> Data Sources> Publish Type: Embedded in Workbook>Allow Refresh Access(Optional)>Publish
+Go to the Data Sources for this workbook on server>Click on the 3 dots near the workbook name>Refresh Extracts
+Now you are good to see the views
