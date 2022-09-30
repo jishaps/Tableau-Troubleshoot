@@ -1,0 +1,3 @@
+Reduce the complexity of the calculation (From 1 min 35 sec to 1min 15 sec)
+Create a mini model by using the necessary tables (From 1 min 15 sec to 50 sec)
+Reduce the number of worksheets (Here monthly and Quarterly in separate tabs) (From 50 sec to 20 sec)
