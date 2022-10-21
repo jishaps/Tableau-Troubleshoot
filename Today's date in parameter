@@ -1,0 +1,2 @@
+create a calculated field with function today()
+Value when workbook opens: from the drop down select the data source name then select today
