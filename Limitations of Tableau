@@ -1,0 +1,3 @@
+A dashboard can only be shared as image or pdf eventhough it is a tabular report
+If multiple tabular dshbaords present, we have to download one by one; not all at the same time
+Some other type of reporting tool, filter the data first and then pull from database but in tableau model we have to pull the data first
