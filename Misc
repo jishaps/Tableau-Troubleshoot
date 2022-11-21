@@ -1,0 +1,5 @@
+We can combine different product levels in a calculation. For example, 
+IF PL1='ABC'
+THEN PL2
+ELSE PL3
+END
