@@ -1,0 +1,12 @@
+Step 1: Right click the field in Rows/Columns and click on 'Edit Shelf'
+Step 2: //New name
+Step 3: shift+Enter
+Step 4: Enter
+
+This will not work for Date fields
+Date Field renaming options
+1) Use a calculated field
+2) Rename the field in the Data pane (not a good solution if there is chance for model change)
+3) Exact Date + Decrete gives the field name in data pane rather than Month of Year of Field name
+4) Right click the field in Rows/Columns and click Attribute (this results the field name in data pane)
+5) Use the Steps 1,2 then use STR function and Steps 3,4
