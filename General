@@ -1,1 +1,2 @@
-We can not change a combined field to a measure. For this we've to use a calculated field
+We can not change a combined field to a measure. For this we've to use a calculated field. Also combined fields are not used in IF statement 
+FIXED calculation is based only on the fields before the hiphen but INCLUDE uses the fields+data in the visualization
