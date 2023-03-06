@@ -1,3 +1,4 @@
 Tableau can aggregate dimension
 blue pill descrete, green pill continuous
-When we drag a measure to the view, the aggregation applied by default is NOT always SUM.
+When we drag a measure to the view, the aggregation applied by default is NOT always SUM (
+Whenever you add a measure to your view, an aggregation is applied to that measure by default. The type of aggregation applied varies depending on the context of the view)
