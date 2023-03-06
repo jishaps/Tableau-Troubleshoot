@@ -1,2 +1,3 @@
 Tableau can aggregate dimension
 blue pill descrete, green pill continuous
+When we drag a measure to the view, the aggregation applied by default is NOT always SUM.
