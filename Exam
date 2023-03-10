@@ -7,3 +7,4 @@ Generally, the easiest way to convert a bar chart to a stacked bar chart is to d
 Views with dual axis that has customized marks are called Combo charts
 Dual axes are useful for analyzing two measures with different scales
 Tableau generates the Latitude and Longitude pills if there are geographic data like 'Country', 'City' etc
+Measures names contains the names of all measures in your data, collected into a single field with discrete values
