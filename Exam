@@ -5,3 +5,4 @@ We can disaggregate the data, to see all of the marks in the view at the most de
 A bar chart is best used to compare data across categories
 Generally, the easiest way to convert a bar chart to a stacked bar chart is to drag a dimension to Color on the marks card
 Views with dual axis that has customized marks are called Combo charts
+Dual axes are useful for analyzing two measures with different scales
