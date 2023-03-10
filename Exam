@@ -4,3 +4,4 @@ When we drag a measure to the view, the aggregation applied by default is NOT al
 We can disaggregate the data, to see all of the marks in the view at the most detailed level of granularity
 A bar chart is best used to compare data across categories
 Generally, the easiest way to convert a bar chart to a stacked bar chart is to drag a dimension to Color on the marks card
+Views with dual axis that has customized marks are called Combo charts
