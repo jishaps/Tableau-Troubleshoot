@@ -9,5 +9,11 @@ Dual axes are useful for analyzing two measures with different scales
 Tableau generates the Latitude and Longitude pills if there are geographic data like 'Country', 'City' etc
 Measures names contains the names of all measures in your data, collected into a single field with discrete values
 Measures values contains the names of all measures in your data, collected into a single field with continuous values
-Filled Maps only make use of color and not size. Symbol maps both Size (manadatory) and color.
+Filled Maps/Highlight tables only make use of color and not size. Symbol maps/Heat maps both Size (manadatory) and color.
 Symbol/Filled Maps can apply color based on one measure, and apply Labels using another measure.
+Imagine that you have 2 discrete dimensions on the rows shelf. Usually, which of the following WILL NOT create a cross tab? dragging a measure to the columns shelf
+Which of the following is the 'Mark Type' for a cross-tab? Text
+For a Highlight Table, we need at least 1 or more dimension and 1 measure
+A histogram is a chart that displays the shape of a distribution. A histogram looks like a bar chart but groups values for a continuous measure into ranges, or bins.
+What do we need in order to create a Histogram? 1 measure
+We can use treemaps to display data in nested rectangles
