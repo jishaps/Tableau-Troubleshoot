@@ -1,5 +1,5 @@
 Tableau can aggregate dimension
-blue pill descrete, green pill continuous
+blue pill descrete, green pill continuous. Continuous (green) pills will always form an axis!
 When we drag a measure to the view, the aggregation applied by default is NOT always SUM (Whenever you add a measure to your view, an aggregation is applied to that measure by default. The type of aggregation applied varies depending on the context of the view)
 We can disaggregate the data, to see all of the marks in the view at the most detailed level of granularity
 A bar chart is best used to compare data across categories
@@ -17,3 +17,7 @@ For a Highlight Table, we need at least 1 or more dimension and 1 measure
 A histogram is a chart that displays the shape of a distribution. A histogram looks like a bar chart but groups values for a continuous measure into ranges, or bins.
 What do we need in order to create a Histogram? 1 measure
 We can use treemaps to display data in nested rectangles
+Which of the following BEST describes the use case for a bullet chart? Comparing the performance of a primary measure to 1 or more other measures
+Which of the following describes the minimum requirement to create a Bullet Chart? 0 or more dimensions and 2 measures
+If the marks are dense, you may not see labels for all the marks unless you check the option Allow labels to overlap other marks. 
+Which of the following are valid type of annotation in Tableau? mark,point,area
