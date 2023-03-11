@@ -10,3 +10,4 @@ Tableau generates the Latitude and Longitude pills if there are geographic data 
 Measures names contains the names of all measures in your data, collected into a single field with discrete values
 Measures values contains the names of all measures in your data, collected into a single field with continuous values
 Filled Maps only make use of color and not size. Symbol maps both Size (manadatory) and color.
+Symbol/Filled Maps can apply color based on one measure, and apply Labels using another measure.
