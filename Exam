@@ -22,3 +22,4 @@ Which of the following describes the minimum requirement to create a Bullet Char
 If the marks are dense, you may not see labels for all the marks unless you check the option Allow labels to overlap other marks. 
 Which of the following are valid type of annotation in Tableau? mark,point,area
 What would be the output of the following function: ISDATE("February 31, 2017") False
+TODAY() Present Day, NOW() Present day and time
