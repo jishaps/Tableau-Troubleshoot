@@ -27,3 +27,4 @@ What will be the output of the following function: DATEDIFF('month',#January 1, 
 What will be the output of the following function: FLOAT(7) ans:7.000
 What will be the output of the following function: STR(8.5) ans:"8.5"
 Ad-hoc calculations are also known as type-in or in-line calculations.
+A common use-case for ad-hoc calculations? Testing a hunch, try a what-if scenario, debug a complex calculation
