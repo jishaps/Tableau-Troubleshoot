@@ -25,3 +25,4 @@ What would be the output of the following function: ISDATE("February 31, 2017") 
 TODAY() Present Day, NOW() Present day and time
 What will be the output of the following function: DATEDIFF('month',#January 1, 2021#,#December 31, 2021#) ans:11
 What will be the output of the following function: FLOAT(7) ans:7.000
+What will be the output of the following function: STR(8.5) ans:"8.5"
