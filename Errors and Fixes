@@ -1,0 +1,2 @@
+Error while publishing: this workbook contains a data source that is dependent on a different tableau server
+Fix: refresh the data source
