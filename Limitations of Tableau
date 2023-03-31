@@ -4,3 +4,5 @@ Some other type of reporting tool, filter the data first and then pull from data
 Table worksheet is not flexible. All the measures should be at the end
 Excel has a feature to add the contents of multiple sheets to a new worksheet but that is not easy with Tableau (Tableau extentions is one option)
 Show and hide filters or worksheets are not easy to handle (needs some time of development)
+export excel from tableau desktop takes time
+For analysis we need to download excel csv file, that requires publish the report first and then download
