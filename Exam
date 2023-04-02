@@ -32,3 +32,6 @@ Only one ad-hoc calculation can be open at a time. True
 Ad-hoc calculations are available when you create groups, sets, hierarchies, or parameters. False
 The AVG() function returns the Average of all values in the expression and does not ignore NULL values.
 Which of the following is a quick table calculation? Rank, Running Total, Percentile
+You can only perform quick table calculations on measures in the view True
+
+
