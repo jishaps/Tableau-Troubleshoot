@@ -38,6 +38,6 @@ Is SUM a table calculation? No (SUM is an aggregate function, not a table calcul
 Measures can increase the granularity of the view. False (but dimensions can)
 Fixed can be dimension/measure. Include/Exclude results measure
 Calculating the Profit ratio using [Sales] / [Profit]is an example of a row-level expression. True
-
+Using the formula SUM(Sales) / SUM(Profit) to calculate the profit ratio is an example of a view-level / column-level expression.True
 
 
