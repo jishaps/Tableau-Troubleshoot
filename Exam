@@ -37,3 +37,7 @@ You can only perform quick table calculations on measures in the view True
 Is SUM a table calculation? No (SUM is an aggregate function, not a table calculation! A table calculation is a transformation you apply to the values in a visualization. Table calculations are a special type of calculated field that computes on the local data in Tableau. They are calculated based on what is currently in the visualization and do not consider any measures or dimensions that are filtered out of the visualization. The most common Table calculations are: Running Total, Percent Difference, Difference, Percent of Total, Rank, and Percentile.)
 Measures can increase the granularity of the view. False (but dimensions can)
 Fixed can be dimension/measure. Include/Exclude results measure
+Calculating the Profit ratio using [Sales] / [Profit]is an example of a row-level expression. True
+
+
+
