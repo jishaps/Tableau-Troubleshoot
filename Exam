@@ -47,3 +47,4 @@ Suppose we create a group called G1, and then select the 'Include Others' option
 Sets, Top N calculations and Fixed LODs are executed before Dimension Filters
 You cannot select a continuous field that isn't currently in the view as the basis for your reference line. True. But you Reference Distribution can trick this by adding another measure to Details/marks card
 Which of the following allow us to use Standard Deviation, Percentiles, and Quantiles in our computations? Reference Distribution
+Suppose I add a reference line for the Average Sales to my view. Which Label option can I choose to print my own text instead of the 'Average' that is printed by default? Custom
