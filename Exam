@@ -44,3 +44,4 @@ What would the following expression return? {MIN([Order Date])} This expression 
 Which of the following Grouping techniques results in a new consolidated mark in the view? Grouping by labels
 When selected members are combined into a single group, a default name is created using the combined member names.(By default, the new group is named using the combined names of all members.)
 Suppose we create a group called G1, and then select the 'Include Others' option. What will this do? When we select this option, all members except the ones in the groups we've created get clubbed in a new group called "Others".
+Sets, Top N calculations and Fixed LODs are executed before Dimension Filters
