@@ -42,4 +42,4 @@ Using the formula SUM(Sales) / SUM(Profit) to calculate the profit ratio is an e
 FIXED LODs are executed after Dimension filters. (It is true for INCLUDE/EXCLUDE)
 What would the following expression return? {MIN([Order Date])} This expression (also known as table-scoped) is essentially the same as writing : {FIXED : MIN([Order Date])} . This will return the oldest or least Order date, without caring about what the viz level-of-detail is!
 Which of the following Grouping techniques results in a new consolidated mark in the view? Grouping by labels
-When selected members are combined into a single group, a default name is created using the combined member names
+When selected members are combined into a single group, a default name is created using the combined member names.(By default, the new group is named using the combined names of all members.)
