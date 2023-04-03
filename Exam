@@ -49,3 +49,4 @@ You cannot select a continuous field that isn't currently in the view as the bas
 Which of the following allow us to use Standard Deviation, Percentiles, and Quantiles in our computations? Reference Distribution
 Suppose I add a reference line for the Average Sales to my view. Which Label option can I choose to print my own text instead of the 'Average' that is printed by default? Custom
 Generally, we try to keep our R-squared value close to ______ and the p-value<= _________.1,0.05
+We need a minimum of 1 date dimension, and 1 measure to create a forecast!
