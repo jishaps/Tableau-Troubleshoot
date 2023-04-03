@@ -50,8 +50,8 @@ Which of the following allow us to use Standard Deviation, Percentiles, and Quan
 Suppose I add a reference line for the Average Sales to my view. Which Label option can I choose to print my own text instead of the 'Average' that is printed by default? Custom
 Generally, we try to keep our R-squared value close to ______ and the p-value<= _________.1,0.05
 We need a minimum of 1 date dimension, and 1 measure to create a forecast!
-he _______________ defines that there is a certain likelihood that the value of our measure will be within the shaded area for the forecast period. Confidence Interval
-
+The _______________ defines that there is a certain likelihood that the value of our measure will be within the shaded area for the forecast period. Confidence Interval
+Which of the following metrics can we include in the tooltip after creating a forecast? Upper Prediction Interval, Quality, Precision%, Precision, Trend
 
 
 
