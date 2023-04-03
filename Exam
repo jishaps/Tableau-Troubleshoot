@@ -54,5 +54,5 @@ The _______________ defines that there is a certain likelihood that the value of
 Which of the following metrics can we include in the tooltip after creating a forecast? Upper Prediction Interval, Quality, Precision%, Precision, Trend
 Which statistical values are present by default in the Statistical Summary Card? Average, Minimum, Maximum, Sum, Median
 Click on the small dropdown on the Statistical Summary Card. What extra values can we add to our analysis? Standard Deviation, First Quartile, Third Quartile, Skewness, Kurtosis
-
+Which of the following is NOT a Tableau background map style? Outdoors, Satellite, Dark, Light, Normal,Street
 
