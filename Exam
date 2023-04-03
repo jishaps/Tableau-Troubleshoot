@@ -52,7 +52,7 @@ Generally, we try to keep our R-squared value close to ______ and the p-value<= 
 We need a minimum of 1 date dimension, and 1 measure to create a forecast!
 The _______________ defines that there is a certain likelihood that the value of our measure will be within the shaded area for the forecast period. Confidence Interval
 Which of the following metrics can we include in the tooltip after creating a forecast? Upper Prediction Interval, Quality, Precision%, Precision, Trend
-
+Which statistical values are present by default in the Statistical Summary Card? Average, Minimum, Maximum, Sum, Median
 
 
 
