@@ -56,3 +56,4 @@ Which statistical values are present by default in the Statistical Summary Card?
 Click on the small dropdown on the Statistical Summary Card. What extra values can we add to our analysis? Standard Deviation, First Quartile, Third Quartile, Skewness, Kurtosis
 Which of the following is NOT a Tableau background map style? Outdoors, Satellite, Dark, Light, Normal,Street
 By default, when you add a geographic field to the view, Tableau creates a point map. You can change this to a polygon (filled) map, a line map, or a density map (heatmap). Note: Filled maps are not available at the city or postcode level.
+Valid Dashboard Size option? Fixed, Automatic, Range
