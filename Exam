@@ -59,6 +59,38 @@ By default, when you add a geographic field to the view, Tableau creates a point
 Valid Dashboard Size option? Fixed, Automatic, Range
 When using the Automatic Dashboard Size option, it is best to use the Tiled Dashboard Layout.True
 ______________ let you group related dashboard items together so you can quickly position them. Layout containers
+___________ items don't overlap; they become part of a single-layer grid that resizes based on the overall dashboard size. Tiled
+If you have a dashboard and are displaying a filter in it, how can you rearrange its position? By clicking on the 2 lines on top and dragging the filter
+A horizontal layout container resizes the WIDTH of the views and objects it contains; a vertical layout container adjusts HEIGHT.
+Which of the following is an Action that can be added to a dashboard for users? Go to URL, Highlight, Filter, Go to Sheet, Change Parameter, and Change Set Values.
+Is it possible to deploy a URL action on a dashboard object to open a Web Page within a dashboard rather than opening the system’s web browser? Yes, with the help of webpage object
+_________________ actions take an existing set and update the values contained in that set based on user actions in a viz. set
+To customize links based on the data in your dashboard, you can automatically enter field values as _______________ in URLs. parameters
+Which of the following is a valid Running Action? select, hover, menu
+When using a Filter Action, what does the "Leave the filter" option do when the selection is cleared in the view? continues to show filtered result on the target sheets
+The Go to __________ action to let users quickly navigate to a related visualization—a dashboard, sheet, or story—when they click on a mark or a tooltip menu item in the original view. sheet
+What is a story point in Tableau? a single worksheet or dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
