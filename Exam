@@ -57,3 +57,4 @@ Click on the small dropdown on the Statistical Summary Card. What extra values c
 Which of the following is NOT a Tableau background map style? Outdoors, Satellite, Dark, Light, Normal,Street
 By default, when you add a geographic field to the view, Tableau creates a point map. You can change this to a polygon (filled) map, a line map, or a density map (heatmap). Note: Filled maps are not available at the city or postcode level.
 Valid Dashboard Size option? Fixed, Automatic, Range
+When using the Automatic Dashboard Size option, it is best to use the Tiled Dashboard Layout.True
