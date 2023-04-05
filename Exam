@@ -77,6 +77,22 @@ Which of the following options allows us to add text to our story points? Drag t
 Which of the following is NOT a valid navigator style for stories? Caption boxes, numbers, dots, Arrows only
 Initially, each device layout contains every item in the Default dashboard and derives its size and layout from Default as well. True
 To save time with a unique Phone layout option that automatically reflects changes to the Default dashboard, we can either click the open lock icon , or choose ______________ from the pop-up menu. Auto-Generate Layout
+If we use the ______________ option for any device type, the layout becomes fully independent, giving us the power to manually add and arrange items Edit Layout
+The _____________ option allows us to view how our dashboard will look like on a certain device type & screen size. Device Preview
+ After you publish a dashboard with all three layouts, users won't see the default dashboard layout; instead, they'll always see the appropriate device-specific layout. True
+If you remove an item, it's only removed from the current device layout. It still exists on the default dashboard and can be added to the device layout again. True
+Which of the following is a great option for phone layouts and vertical scrolling? Fixed width
+If you've chosen to edit a phone layout yourself, you can quickly optimize the placement of filters, remove white space, and more by using the ___________ option. Optimize layout
+
+
+
+
+
+
+
+
+
+
 
 
 
