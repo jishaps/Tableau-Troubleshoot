@@ -88,6 +88,16 @@ The primary color(s) that make up most of your design should be a _____________ 
 You add more context with ____________ that describe how to interact with the worksheet or dashboard. subtitles
 If the viewer notices something interesting in the tooltip, they can interact directly with the tooltip and watch the rest of the visualization come to life, highlighting related marks and outliers using the _______________ option. allow selection by category
 Font selection should be done to reinforce a visual hierarchy within your visualization through size, boldness, ________ and type. color
+Which of the following can help us achieve the following in a dashboard -
+1) Easily find data of interest while remaining within context.
+2) See other marks with shared attributes.
+3) Find related data across sheets.
+ Highlighting and Highlight actions 
+
+
+
+
+
 
 
 
