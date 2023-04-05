@@ -86,6 +86,12 @@ If you've chosen to edit a phone layout yourself, you can quickly optimize the p
 Which of the following is a valid design consideration when designing dashboards? Newspaper or Z-layout, White space, Device type
 The primary color(s) that make up most of your design should be a _____________ color. neutral
 You add more context with ____________ that describe how to interact with the worksheet or dashboard. subtitles
+If the viewer notices something interesting in the tooltip, they can interact directly with the tooltip and watch the rest of the visualization come to life, highlighting related marks and outliers using the _______________ option. allow selection by category
+
+
+
+
+
 
 
 
