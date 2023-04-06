@@ -106,7 +106,7 @@ Which of the following is the default connection type when connecting to a file?
 After connecting to a data source, the data grid on the Data Source page display ___________ rows by default. 1000
 We can see the hidden fields by checking the "Show hidden fields" option in the Metadata grid.
 Which of the following options performs an Automatic Split?Split
-
+How many new fields are created after performing a pivot on multiple columns?2
 
 
 
