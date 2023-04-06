@@ -110,7 +110,7 @@ How many new fields are created after performing a pivot on multiple columns?2 (
 After selecting two or more columns, click the drop-down arrow next to the column name, and then select Pivot. New columns called "Pivot field names" and "Pivot field values" are created and added to the data source. Are the original columns replaced? Yes
 After a pivot has been created, it is possible to add more data to this pivot. True (To add more data to the pivot, select another column, click the drop-down arrow next to the column name, and then select Add Data to Pivot.)
 It is possible to edit the Excel spreadsheet created by Data Interpreter to modify the legend and tell Data Interpreter how to clean the data better.No(No, Data Interpreter does everything on its own - there is no way of modifying its cleaning results or telling it how to clean our data in a better manner. It's not a fully blown data cleaning tool like Tableau Prep Builder, but can be used to clean a lot of dirty data quickly!)
-
+Data Interpreter is not available when the data source is already in a format that Tableau can interpret: True
 
 
 
