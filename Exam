@@ -116,6 +116,10 @@ It is possible to merge the non-matching fields into a single field using the me
 A join combines the data and then aggregates. A blend aggregates and then combines the data. True
 Which extract model would you use to help improve performance and reduce the size of your extract?multiple tables
 Which extract data storage model would you use if you need to use extract filters, aggregation, top N, etc. single table
+Data blending can only be a LEFT join, which means the primary table should contain all possible values. True
+
+
+
 
 
 
