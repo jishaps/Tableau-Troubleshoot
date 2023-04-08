@@ -115,7 +115,7 @@ When using the Wildcard option in the Union tool, what will writing *2019 in the
 It is possible to merge the non-matching fields into a single field using the merge option to remove the null values. True
 A join combines the data and then aggregates. A blend aggregates and then combines the data. True
 Which extract model would you use to help improve performance and reduce the size of your extract?multiple tables
-
+Which extract data storage model would you use if you need to use extract filters, aggregation, top N, etc. single table
 
 
 
