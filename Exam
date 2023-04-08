@@ -114,7 +114,7 @@ Data Interpreter is not available when the data source is already in a format th
 When using the Wildcard option in the Union tool, what will writing *2019 in the Include option do? ending with 2019
 It is possible to merge the non-matching fields into a single field using the merge option to remove the null values. True
 A join combines the data and then aggregates. A blend aggregates and then combines the data. True
-
+Which extract model would you use to help improve performance and reduce the size of your extract?multiple tables
 
 
 
