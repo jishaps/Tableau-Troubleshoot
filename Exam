@@ -119,6 +119,7 @@ Which extract data storage model would you use if you need to use extract filter
 Data blending can only be a LEFT join, which means the primary table should contain all possible values. True
 If the secondary table has a large amount of data then ________ may be faster, because _________ will aggregate the data first.blending
 Which source type is not accessible via Tableau Desktops data connection window? .TIFF
+Which source type is accessible via Tableau Desktops data connection window? PDF, Spatial,web data connectors
 What section of the data source interface window is not available in the Tableau Public app? Connection Type (Extract/Live)
 Which of the following is a transformation function that can be applied in the data source interface window? Group, Split, rename
 Which extract customization option can impact the way your calculations function? Aggregation
