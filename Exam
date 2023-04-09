@@ -123,6 +123,12 @@ What section of the data source interface window is not available in the Tableau
 Which of the following is a transformation function that can be applied in the data source interface window? Group, Split, rename
 Which extract customization option can impact the way your calculations function? Aggregation
 What two types of unions are available in the physical layer Tableau Desktop's data model? Specific and wildcard
+Which of the following is false concerning data blending in Tableau? swap blend role option is there
+
+
+
+
+
 
 
 
