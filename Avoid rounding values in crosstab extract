@@ -1,0 +1,5 @@
+Cross-tab download takes number formatting what you have setup in Measures in the left panel.
+
+To change this setup you need to right-click on measure name -> Default properties -> Number format.
+
+and choose relevant option as per the requirement.
