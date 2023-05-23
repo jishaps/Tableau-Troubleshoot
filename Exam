@@ -126,7 +126,7 @@ Which extract customization option can impact the way your calculations function
 What two types of unions are available in the physical layer Tableau Desktop's data model? Specific and wildcard
 Which of the following is false concerning data blending in Tableau? swap blend role option is there
 What chart type in Tableau represents data by using time variables combined with measures to show data trends? Line chart
-
+What combination of dimensions and measures are required for "Show Me" to make a text table? 1+, 1+
 
 
 
