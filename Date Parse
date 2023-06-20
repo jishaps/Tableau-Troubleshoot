@@ -1,0 +1,2 @@
+Had to use small letter yy when there is 2 digit year
+      DATEPARSE("MMM yy",[Plan Month])
