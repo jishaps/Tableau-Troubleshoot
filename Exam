@@ -140,6 +140,12 @@ Background images are imported through which menu? Maps
 What type should zip codes be coded as to avoid map errors? String
 Curved lines of best fit that increase quickly and then level off gradually - describes which regression model in Tableau Desktop? Logarithmic
 What part of a trend line explains how the variance of one variable explains the variance of another, ranging from 0-1 (closer to 1 = more accurate)? R-squared
+Which is true regarding forecasts in Tableau Desktop? Atleast 5 data points are required for a forecast, atleast 2 seasons are required for seasonality, atleast 24 months are required for 12 month seasonal cycle
+
+
+
+
+
 
 
 
