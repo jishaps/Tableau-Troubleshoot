@@ -146,7 +146,7 @@ What two areas can you generate a boxplot from in Tableau Desktop? Analytics Pan
 Which logical function evaluates multiple logical tests; if true the THEN result is shown, otherwise the ELSE result is shown? ELSEIF
 Which date function returns a part of the given date as a string, with units defined by the date interval? DATENAME()
 Which statement best defines addressing in relation to table calculations? defines a direction in which a calculation is evaluated
-
+What part of an LOD expression defines the grain at which the data is aggregated? Dimension declaration
 
 
 
