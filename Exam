@@ -143,7 +143,7 @@ What part of a trend line explains how the variance of one variable explains the
 Which is true regarding forecasts in Tableau Desktop? Atleast 5 data points are required for a forecast, atleast 2 seasons are required for seasonality, atleast 24 months are required for 12 month seasonal cycle
 Control charts leverage which mathematical function? Standard Deviation
 What two areas can you generate a boxplot from in Tableau Desktop? Analytics Pane and Show me
-
+Which logical function evaluates multiple logical tests; if true the THEN result is shown, otherwise the ELSE result is shown? ELSEIF
 
 
 
