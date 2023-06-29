@@ -144,7 +144,7 @@ Which is true regarding forecasts in Tableau Desktop? Atleast 5 data points are 
 Control charts leverage which mathematical function? Standard Deviation
 What two areas can you generate a boxplot from in Tableau Desktop? Analytics Pane and Show me
 Which logical function evaluates multiple logical tests; if true the THEN result is shown, otherwise the ELSE result is shown? ELSEIF
-
+Which date function returns a part of the given date as a string, with units defined by the date interval? DATENAME()
 
 
 
