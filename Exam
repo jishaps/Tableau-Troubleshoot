@@ -148,7 +148,7 @@ Which date function returns a part of the given date as a string, with units def
 Which statement best defines addressing in relation to table calculations? defines a direction in which a calculation is evaluated
 What part of an LOD expression defines the grain at which the data is aggregated? Dimension declaration
 What two types of sets can be created? Computed & Constant
-
+What can you control via default field properties? Color, Number format, Aggregation
 
 
 
