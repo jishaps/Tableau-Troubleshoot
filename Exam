@@ -152,6 +152,12 @@ What can you control via default field properties? Color, Number format, Aggrega
 Which function provides an interactive tool to call attention specific data points? Data Highlighter
 By default viz animations are set to what setting ? In Tableau 2020.1 and above, "On" is the default setting.
 Which panes are available when customizing dashboards? Dashboards and Layout
+ dashboard sizing option? Fixed, Automatic, Range
+Which dashboard object helps organize and distribute objects in defined spaces? Containers
+Formatting can occur at which levels in Tableau Desktop? Field, sheet, workbook
+Which are true related to filter actions? Filter actions can be applied across datasources, can be created using "use as filter" button, Filter actions can be added to context
+a device designer view? phone, desktop, tablet
+What CAN be added to a story? worksheet, dashboard, actions
 
 
 
