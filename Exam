@@ -158,13 +158,15 @@ Formatting can occur at which levels in Tableau Desktop? Field, sheet, workbook
 Which are true related to filter actions? Filter actions can be applied across datasources, can be created using "use as filter" button, Filter actions can be added to context
 a device designer view? phone, desktop, tablet
 What CAN be added to a story? worksheet, dashboard, actions
-
-
-
-
-
-
-
+Creator, Explorer, and Viewer are examples of which Tableau platform classification? User roles
+Which platform is fully-hosted by Tableau? Tableau Online / Tableau Cloud
+Which configuration piece makes workbooks easier to search on Tableau Server? Tags
+Which feature can be configured in the data source publish dialog? Update workbook to use the published data source, Tags, Refresh schedule
+Which dashboard export feature provides raw data exports? Data
+Which type of data extract refresh requires configuration in desktop before publishing to be enabled? Incremental Extract
+What is the name of the activity on Tableau Server which need to be scheduled to run Prep Workflows on a particular cadence? Tasks
+Which of the following is a configuration option for Server Alerts? Condition, Recepient, Threshold
+Which of the following is not a subscription format option? PDF, Image, Image and PDF
 
 
 
