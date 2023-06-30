@@ -167,6 +167,42 @@ Which type of data extract refresh requires configuration in desktop before publ
 What is the name of the activity on Tableau Server which need to be scheduled to run Prep Workflows on a particular cadence? Tasks
 Which of the following is a configuration option for Server Alerts? Condition, Recepient, Threshold
 Which of the following is not a subscription format option? PDF, Image, Image and PDF
+Which tool is a desktop-based ETL program in the Tableau stack? Tableau Prep
+Which part of the Tableau Prep workspace is defined as "Displays a preview of the rows and columns in your source data"? Data Grid
+Which is one of the 7 fundamental Tableau Prep Step tools? Input, clean, pivot
+Which Tableau Prep step "stacks" or "appends data from multiple sources? union
+Which step is used to combine data between tables which share common or related fields? join
+What happens if you put dimensions in the group by section only in an aggregate step? unique list is returned
+Which filter type keeps/excludes values based on a pattern? Wildcard match
+Which functionality can automatically pivot fields in Tableau in the pivot step? wildcard search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
