@@ -150,6 +150,12 @@ What part of an LOD expression defines the grain at which the data is aggregated
 What two types of sets can be created? Computed & Constant
 What can you control via default field properties? Color, Number format, Aggregation
 Which function provides an interactive tool to call attention specific data points? Data Highlighter
+By default viz animations are set to what setting ? In Tableau 2020.1 and above, "On" is the default setting.
+
+
+
+
+
 
 
 
