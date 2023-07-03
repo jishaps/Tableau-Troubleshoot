@@ -1,6 +1,7 @@
 Tableau can aggregate dimension
 blue pill descrete, green pill continuous. Continuous (green) pills will always form an axis!
 When we drag a measure to the view, the aggregation applied by default is NOT always SUM (Whenever you add a measure to your view, an aggregation is applied to that measure by default. The type of aggregation applied varies depending on the context of the view)
+
 We can disaggregate the data, to see all of the marks in the view at the most detailed level of granularity
 A bar chart is best used to compare data across categories
 Generally, the easiest way to convert a bar chart to a stacked bar chart is to drag a dimension to Color on the marks card
