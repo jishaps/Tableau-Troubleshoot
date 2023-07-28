@@ -20,6 +20,7 @@ We can break down each bins bar using color, just like we do for a stacked bar-c
 We can use treemaps to display data in nested rectangles
 Which of the following BEST describes the use case for a bullet chart? Comparing the performance of a primary measure to 1 or more other measures
 Which of the following describes the minimum requirement to create a Bullet Chart? 0 or more dimensions and 2 measures
+Mark Labels are turned ON by default in every visualisation.false
 If the marks are dense, you may not see labels for all the marks unless you check the option Allow labels to overlap other marks. 
 Which of the following are valid type of annotation in Tableau? mark,point,area
 What would be the output of the following function: ISDATE("February 31, 2017") False (February can have a maximum of 29 days (in leap years). Hence February 31 is impossible!)
