@@ -16,6 +16,7 @@ Which of the following is the 'Mark Type' for a cross-tab? Text
 For a Highlight Table, we need at least 1 or more dimension and 1 measure
 A histogram is a chart that displays the shape of a distribution. A histogram looks like a bar chart but groups values for a continuous measure into ranges, or bins.
 What do we need in order to create a Histogram? 1 measure
+We can break down each bins bar using color, just like we do for a stacked bar-chart. True
 We can use treemaps to display data in nested rectangles
 Which of the following BEST describes the use case for a bullet chart? Comparing the performance of a primary measure to 1 or more other measures
 Which of the following describes the minimum requirement to create a Bullet Chart? 0 or more dimensions and 2 measures
