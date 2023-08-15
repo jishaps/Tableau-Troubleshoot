@@ -178,6 +178,7 @@ Which step is used to combine data between tables which share common or related 
 What happens if you put dimensions in the group by section only in an aggregate step? unique list is returned
 Which filter type keeps/excludes values based on a pattern? Wildcard match
 Which functionality can automatically pivot fields in Tableau in the pivot step? wildcard search
+Which of the following Grouping techniques results in a new consolidated mark in the view? Grouping by Mark Labels
 
 
 
