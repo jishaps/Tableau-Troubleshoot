@@ -33,7 +33,7 @@ Ad-hoc calculations are also known as type-in or in-line calculations.
 A common use-case for ad-hoc calculations? Testing a hunch, try a what-if scenario, debug a complex calculation
 Only one ad-hoc calculation can be open at a time. True
 Ad-hoc calculations are available when you create groups, sets, hierarchies, or parameters. False
-The AVG() function returns the Average of all values in the expression and does not ignore NULL values.
+The AVG() function returns the Average of all values in the expression and does not ignore NULL values. False
 Which of the following is a quick table calculation? Rank, Running Total, Percentile
 If you use a percent difference Quick Table Calculation, what value will be the first data value? Null
 You can only perform quick table calculations on measures in the view True
