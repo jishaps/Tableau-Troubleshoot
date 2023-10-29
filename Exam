@@ -180,8 +180,8 @@ Which filter type keeps/excludes values based on a pattern? Wildcard match
 Which functionality can automatically pivot fields in Tableau in the pivot step? wildcard search
 Which of the following Grouping techniques results in a new consolidated mark in the view? Grouping by Mark Labels
 We can see the hidden fields using the Data grid, but not the Metadata grid.false
-
-
+Which extract data storage model would you use if you need to use extract filters, aggregation, top N, etc. single table
+Which extract model would you use to help improve performance and reduce the size of your extract? multiple
 
 
 
