@@ -182,7 +182,7 @@ Which of the following Grouping techniques results in a new consolidated mark in
 We can see the hidden fields using the Data grid, but not the Metadata grid.false
 Which extract data storage model would you use if you need to use extract filters, aggregation, top N, etc. single table
 Which extract model would you use to help improve performance and reduce the size of your extract? multiple
-
+ To add trend lines to a view, both axes must contain a field that can be interpreted as a number. 
 
 
 
