@@ -1,4 +1,4 @@
 Create a normal bar chart
 Drag the second measure onto the existing axis till you see 2 green lines
-Drag measure names from Rows shelf onto Color , Ctrl+drag to Size in the Marks Card - This will differentiate the 2 measure based on color (
+Drag measure names from Rows shelf onto Color , Ctrl+drag to Size in the Marks Card - This will differentiate the 2 measure based on color
 Tableau is stacking our bars, and to make sure they have the same starting point, go to Analysis>Stack Marks>Off
