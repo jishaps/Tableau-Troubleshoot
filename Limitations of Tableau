@@ -1,5 +1,5 @@
 A dashboard can only be shared as image or pdf eventhough it is a tabular report
-If multiple tabular dshbaords present, we have to download one by one; not all at the same time
+If multiple tabular dashbaords present, we have to download one by one; not all at the same time
 Some other type of reporting tool, filter the data first and then pull from database but in tableau model we have to pull the data first
 Table worksheet is not flexible. All the measures should be at the end
 Excel has a feature to add the contents of multiple sheets to a new worksheet but that is not easy with Tableau (Tableau extentions is one option)
