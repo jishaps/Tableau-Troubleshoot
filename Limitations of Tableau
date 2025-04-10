@@ -7,3 +7,4 @@ Show and hide filters or worksheets are not easy to handle (needs some time of d
 export excel from tableau desktop takes time
 For analysis we need to download excel csv file, that requires publish the report first and then download
 waterfall or donut charts are not builtin
+Adding text headers is not easy
