@@ -1,0 +1,2 @@
+Tableau doesn't support text wrap in navigation. The best option I got is to create the wrapped text as a calculated field. 
+For newline, we can use CHAR(10) inside the calculaton. Use this calc in a sheet and add a GO TO SHEET *dashboard* action.
