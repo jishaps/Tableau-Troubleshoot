@@ -1,0 +1,16 @@
+Fix the Y-Axis Header Area in Tableau:
+Option 1: Manually resize and lock the header
+
+In your worksheet, hover over the row header divider (between the axis header and the chart).
+
+When the resize cursor appears (↔), drag it to set a consistent width.
+
+Tableau will remember the size unless something forces it to resize (like new longer labels).
+
+If used in a dashboard:
+
+Add the sheet to a container.
+
+Fix the container size so the axis doesn’t get squeezed or stretched.
+
+✅ Best for: Simple cases where you just need consistent alignment across sheets
