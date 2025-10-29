@@ -3,3 +3,4 @@ FIXED & INCLUDE: FIXED calculation is based only on the fields before the hiphen
 Comment: Right click on the field on the data pane , select defaut Properties and Comment
 Edit Alias of dimension for published data source is not available. In that case create duplicate field and make the changes in the calculation.
 You can download the .txt file in the data source by editing the connection (left side pane). Then it will show the place in your local directory where the file is saved (may be temporary)
+Show Field Label For Rows: Analysis>Table Layout
